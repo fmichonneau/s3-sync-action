@@ -4,6 +4,3 @@ author: fmichonneau
 runs:
   using: docker
   image: Dockerfile
-output:
-  action_log:
-    description: "log of the s3 sync command"
